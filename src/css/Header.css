@@ -1,0 +1,16 @@
+.root{
+    flex-Grow: 1,
+  };
+  .grow{
+    flex-Grow: 1,
+  };
+  .menuButton{
+    margin-Left: -12;
+    margin-Right: 20;
+  };
+  .username{
+    /* float :right; */
+    margin-left:1024px;
+    font-size: 50px;
+  }
+  

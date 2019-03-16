@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "priyanshi11296@gmail.com",
+      "name": "Priyanshi Agarwal",
+      "password": "112345678",
+      "notes": [
+        {
+          "id": 227474.04481872966,
+          "title": "My Notes ",
+          "notes": "This is my first react project",
+          "date": "17/3/2019 1:55:10"
+        }
+      ]
+    }
+  ]
+}

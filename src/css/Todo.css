@@ -1,0 +1,16 @@
+.column{
+    /* max-width:30%; */
+    /* max-height: 1000px;  */
+    /* margin-bottom: 10px; */
+    margin-top:50px;
+    flex: 0 0 30%;
+}
+ul{
+    display: flex;
+    justify-content : space-around;
+    padding: 0;
+    flex-wrap:wrap;
+}
+.card{
+    margin-bottom:10px;
+}
